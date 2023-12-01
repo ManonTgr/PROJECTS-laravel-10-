@@ -1,0 +1,45 @@
+
+body { 
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/keesha-s-kitchen-eaSIzdS8pv0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header {
+        background-color: black;
+        background-size: 50px;
+        opacity: 0.85;
+}
+
+img {
+    width : 90px;
+    height : 90px;
+    background-repeat: no repeat no-repeat;
+    }
+
+
+h2 {
+    align: center;
+}
+.profil {
+
+    background-color: blueviolet;
+}
+.plats {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+
+.plats img {
+
+    width: 150px;
+    height: auto;
+}
+
+.plats h4 {
+    display: inline-block;}
